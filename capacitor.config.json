@@ -4,11 +4,7 @@
   "webDir": "www",
   "bundledWebRuntime": false,
   "server": {
-    "url": "https://ecotaarifa.wuaze.com/",
-    "cleartext": true,
+    "url": "https://ecotaarifa.wuaze.com",
     "androidScheme": "https"
-  },
-  "android": {
-    "allowMixedContent": true
   }
 }
