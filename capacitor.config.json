@@ -5,6 +5,7 @@
   "bundledWebRuntime": false,
   "server": {
     "url": "https://ecotaarifa.wuaze.com",
-    "androidScheme": "https"
+    "androidScheme": "https",
+    "appStartPath": "/index.php"
   }
 }
